@@ -2,7 +2,7 @@
     $ruta = '';
     require_once 'html/header.html';
 ?>
-    <form action="php/procesar.php" method="POST" class="w-50">
+    <form action="php/surtidor.php" method="POST" class="w-50">
             <section class="form-group">
                 <label for="dni" class="control-label fw-bold">DNI:</label>
                 <input type="text" id="dni" name="dni" class="form-control">
